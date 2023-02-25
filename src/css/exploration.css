@@ -1,0 +1,20 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 113px 100px;
+}
+
+h1 {
+  color: #e1e1e6;
+  font-weight: 700;
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+
+p {
+  color: #d9d9da;
+  font-weight: 400;
+  font-size: 18px;
+  max-width: 648px;
+}
