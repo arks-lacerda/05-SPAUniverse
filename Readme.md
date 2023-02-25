@@ -17,7 +17,7 @@
 `Feature 2`: Navigate between pages.
 
 `Feature 3`: Navigate with the browser arrows.
-feito compor
+
 <br/>
 
 # 🚀 Technologies
@@ -27,9 +27,16 @@ The following tools were used in building the project:
 - HTML
 - CSS
 - JavaScript
+- lite-server (npm install lite-server)
 
 <br/>
 
-# 💻 you can access [here](https://)
+# 💻 Run this project
 
+To run this project follow the settings
+
+- npm install
+
+<br/>
+<hr>
 <p align="center"> made with ❤ by <a href="https://www.linkedin.com/in/arks-lacerda/" target="_blank">@arks-lacerda</a></p>
